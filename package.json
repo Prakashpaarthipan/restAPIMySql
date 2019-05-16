@@ -1,0 +1,24 @@
+{
+  "name": "restapimysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakashpaarthipan/restAPIMySql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakashpaarthipan/restAPIMySql/issues"
+  },
+  "homepage": "https://github.com/Prakashpaarthipan/restAPIMySql#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.0"
+  }
+}
